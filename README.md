@@ -3,8 +3,17 @@ This is a [giter8](https://github.com/n8han/giter8) template for generating a ne
 * `main` and `test` source directories
 * [ScalaTest](http://www.scalatest.org/)
 * [Scalacheck](http://www.scalacheck.org/)
-* SBT configuration for `0.13.7`, `Scala 2.11.5`, and `ScalaTest 2.2.1` dependencies
+* [scopt](https://github.com/scopt/scopt)
+* SBT configuration for `0.13.8`, `Scala 2.11.7`, `ScalaTest 2.2.4`, `ScalaCheck 1.12.4`, and `scopt 3.3.0` dependencies
 * project `name`, `organization` and `version` customizable as variables
+
+## CHANGELOG - CAPDEVC
+* Scala 2.11.7
+* SBT 0.13.7
+* ScalaTest 2.2.4
+* ScalaCheck 1.12.4
+* scopt 3.3.0
+
 
 ## CHANGELOG
 
